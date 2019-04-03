@@ -1,0 +1,5 @@
+n=input("Enter the user  name : ")
+print("1st output "+n[1])
+print("2nd output "+n[-2])
+print("3rd output "+n[1:-1])
+print(len(n))
